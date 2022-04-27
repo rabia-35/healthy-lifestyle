@@ -1,2 +1,4 @@
-# ödev3
-ödev3
+# Healthy Lifestyle Website
+* HTML
+* CSS
+* Javascript
